@@ -9,7 +9,7 @@ Dark->Light->Dark
 
 STEPS:
 
-1: download the files and put in somewhere in a folder, (for ex: C:\Users\<user>\OneDrive\Code\Inverse Contrast) and NEVER DELETE
+1: download the files(not the readme) and put in somewhere in a folder, (for ex: C:\Users\<user>\OneDrive\Code\Inverse Contrast) and NEVER DELETE
 <img width="1128" height="510" alt="image" src="https://github.com/user-attachments/assets/f691207c-beb7-4709-9e5b-7d30d25bb144" />
 
 2: Go to Manage Extention<img width="512" height="792" alt="image" src="https://github.com/user-attachments/assets/4770c55f-992a-4260-8baa-2d2669dcae9c" />
