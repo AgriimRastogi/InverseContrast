@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Inverter",
+  "version": "1.2",
+  "description": "Inverts the colors of the current tab for better contrast.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "128": "icon.png"
+    }
+  },
+  "commands": {
+    "toggle-inversion": {
+      "suggested_key": {
+        "default": "Alt+Period"
+      },
+      "description": "Toggle color inversion on the current tab"
+    }
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
