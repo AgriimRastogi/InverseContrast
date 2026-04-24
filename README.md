@@ -7,7 +7,8 @@ Dark->Light->Dark
 <img width="1906" height="933" alt="image" src="https://github.com/user-attachments/assets/62eb367b-7289-463e-9ce2-a6c0619100a2" />
 <img width="112" height="114" alt="image" src="https://github.com/user-attachments/assets/02461ca9-11fe-47b2-bcdc-bf2cdfaf5e12" />
 
-STEPS:
+
+# STEPS:
 
 1: download the files(not the readme) and put in somewhere in a folder, (for ex: C:\Users\<user>\OneDrive\Code\Inverse Contrast) and NEVER DELETE
 <img width="1128" height="510" alt="image" src="https://github.com/user-attachments/assets/f691207c-beb7-4709-9e5b-7d30d25bb144" />
