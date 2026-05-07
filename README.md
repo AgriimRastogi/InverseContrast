@@ -22,4 +22,4 @@ Dark->Light->Dark
 7: Maybe set a Keyboard shortcut<img width="229" height="129" alt="image" src="https://github.com/user-attachments/assets/f2248387-832a-4c68-b4f9-fd990d32dad3" />
 
 
-10: Leave a Start maybe. Thanks!
+10: Leave a Star maybe. Thanks!
